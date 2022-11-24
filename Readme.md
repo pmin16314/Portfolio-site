@@ -15,7 +15,7 @@
 - Swiper Js library : https://swiperjs.com/demos
 
 ## <b>Contact</b>
-Website : www.panchanamadara.com
+Website : www.panchanamadara.com <br>
 Panchana Madara: [@LinkedIn](www.linkedin.com/in/panchana-madara/) <br>
 
 Thank You!
